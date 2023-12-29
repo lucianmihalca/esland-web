@@ -1,3 +1,15 @@
+# Proyecto con fines didácticos 📚.
+
+> [!IMPORTANT]
+>
+> 🙀 Esta pagina no es oficial.
+
+#
+
+
+
+
+
 # Astro Starter Kit: Basics
 
 ```sh
